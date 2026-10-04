@@ -1,0 +1,130 @@
+{
+  "version": "2.0",
+  "pipeline_stage": "validated",
+  "authors": {
+    "Andrea Farabbi": {
+      "orcid": "0000-0001-5582-4654",
+      "affiliations": [
+        {
+          "name": "Politecnico di Milano"
+        }
+      ]
+    },
+    "Fabiola Ghiringhelli": {},
+    "Luca Mainardi": {
+      "orcid": "0000-0002-6276-6314",
+      "affiliations": [
+        {
+          "name": "Politecnico di Milano"
+        }
+      ]
+    },
+    "Joao Miguel Sanches": {
+      "orcid": "0000-0001-9089-2740",
+      "affiliations": [
+        {
+          "name": "Instituto Superior Técnico (IST), Universidade de Lisboa"
+        }
+      ]
+    },
+    "Plinio Moreno": {
+      "orcid": "0000-0002-0496-2050",
+      "affiliations": [
+        {
+          "name": "Instituto Superior Técnico (IST), Universidade de Lisboa"
+        }
+      ]
+    },
+    "Jose Santos-Victor": {
+      "orcid": "0000-0002-9036-1728",
+      "affiliations": [
+        {
+          "name": "Instituto Superior Técnico (IST), Universidade de Lisboa"
+        }
+      ]
+    },
+    "Patricia Figueiredo": {
+      "orcid": "0000-0002-0743-0869",
+      "affiliations": [
+        {
+          "name": "Instituto Superior Técnico (IST), Universidade de Lisboa"
+        }
+      ]
+    },
+    "Athanasios Vourvopoulos": {
+      "orcid": "0000-0001-9676-8599",
+      "affiliations": [
+        {
+          "name": "Instituto Superior Técnico (IST), Universidade de Lisboa"
+        }
+      ]
+    }
+  },
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.5882500",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/nm000294",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataset/nm000294",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.21105/joss.01896",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "10.1038/s41597-019-0104-8",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    }
+  ],
+  "title": "Farabbi2020",
+  "license": "CC-BY-4.0",
+  "dataset_type": "derivative",
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "eeg"
+  ],
+  "resource_type_specific": "EEG Dataset",
+  "sizes": [
+    "966 MB (145 files)"
+  ],
+  "formats": [
+    ".edf",
+    ".json",
+    ".tsv",
+    ".yaml"
+  ],
+  "description": "Motor-imagery EEG recorded from 12 healthy, BCI-naive participants who performed cued left- versus right-hand motor imagery to control a Baxter robot arm reaching toward objects. Each participant completed three sessions with first-person and third-person visual feedback conditions, giving 480 trials per subject. Recordings were made with a 32-channel active-electrode system at 250 Hz and support research on BCI and neurorehabilitation.",
+  "methods_description": "EEG was acquired with a LiveAmp 32 amplifier (Brain Products) and actiCAP active Ag/AgCl electrodes (32 EEG channels plus 3 misc) at 250 Hz. Each session had four motor-imagery runs (first-person training and online, third-person training and online) plus a resting-state recording. Each run had 20 left-hand and 20 right-hand trials, and each trial had a 2 s baseline followed by 4 s of imagery with visual feedback.",
+  "keywords": [
+    {
+      "term": "motor imagery"
+    },
+    {
+      "term": "Brain-Computer Interfaces",
+      "subject_scheme": "MeSH",
+      "scheme_uri": "https://id.nlm.nih.gov/mesh/",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D062207"
+    },
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "robot arm"
+    },
+    {
+      "term": "neurorehabilitation"
+    }
+  ],
+  "source_hash": "7d81cc8c53a442e27c716ee4cf4ec700de4673280d8da7b3809b97e25b40c959"
+}
