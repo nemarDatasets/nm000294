@@ -1,0 +1,44 @@
+{
+    "Name": "Farabbi2020",
+    "BIDSVersion": "1.9.0",
+    "HEDVersion": "8.4.0",
+    "DatasetType": "derivative",
+    "License": "CC-BY-4.0",
+    "Authors": [
+        "Andrea Farabbi",
+        "Fabiola Ghiringhelli",
+        "Luca Mainardi",
+        "Joao Miguel Sanches",
+        "Plinio Moreno",
+        "Jose Santos-Victor",
+        "Patricia Figueiredo",
+        "Athanasios Vourvopoulos"
+    ],
+    "ReferencesAndLinks": [
+        "https://doi.org/10.5281/zenodo.5882500"
+    ],
+    "Keywords": [
+        "motor imagery",
+        "BCI",
+        "brain-computer interface",
+        "EEG",
+        "robot arm",
+        "neurorehabilitation"
+    ],
+    "DatasetDOI": "doi:10.5281/zenodo.5882500",
+    "GeneratedBy": [
+        {
+            "CodeURL": "https://github.com/NeuroTechX/moabb",
+            "Name": "moabb",
+            "Description": "Mother of All BCI Benchmarks",
+            "Version": "1.8.0dev0"
+        }
+    ],
+    "SourceDatasets": [
+        {
+            "DOI": "10.5281/zenodo.5882500",
+            "URL": "https://doi.org/10.5281/zenodo.5882500"
+        }
+    ],
+    "PublicationYear": 2020
+}

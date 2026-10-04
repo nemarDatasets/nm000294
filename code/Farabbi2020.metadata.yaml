@@ -1,0 +1,150 @@
+_dataset:
+  class: Farabbi2020
+  code: Farabbi2020
+  doi: 10.5281/zenodo.5882500
+  interval:
+  - 0
+  - 4
+  n_subjects: 12
+  paradigm: imagery
+acquisition:
+  cap_manufacturer: Brain Products GmbH
+  cap_model: actiCAP
+  channel_types:
+    eeg: 32
+    misc: 3
+  electrode_type: active
+  hardware: LiveAmp 32 (Brain Products GmbH)
+  line_freq: 50.0
+  montage: standard_1020
+  sampling_rate: 250.0
+  sensor_type: active Ag/AgCl
+  sensors:
+  - Fp1
+  - Fz
+  - F3
+  - F7
+  - FT9
+  - FC5
+  - FC1
+  - C3
+  - T7
+  - TP9
+  - CP5
+  - CP1
+  - Pz
+  - P3
+  - P7
+  - O1
+  - Oz
+  - O2
+  - P4
+  - P8
+  - TP10
+  - CP6
+  - CP2
+  - Cz
+  - C4
+  - T8
+  - FT10
+  - FC6
+  - FC2
+  - F4
+  - F8
+  - Fp2
+bci_application:
+  applications:
+  - robot arm control
+  - neurorehabilitation
+  environment: lab
+  online_feedback: true
+cross_validation:
+  evaluation_type:
+  - within_subject
+  - cross_session
+data_structure:
+  n_blocks: 4
+  n_trials: 480
+  n_trials_per_class:
+    left_hand: 240
+    right_hand: 240
+  trials_context: 'Three sessions per subject, each with four motor-imagery runs (first-person training/online, third-person
+    training/online) plus an ignored resting-state recording. Each run: 20 left + 20 right trials (40); 160 per session, 480
+    per subject. Each trial: 2 s baseline + 4 s imagery.'
+documentation:
+  country: IT
+  data_url: https://doi.org/10.5281/zenodo.5882500
+  description: Motor-imagery EEG from 12 healthy naive subjects performing cued left/right-hand imagery to control a Baxter
+    robot arm, across three sessions with first- and third-person visual feedback conditions.
+  doi: 10.5281/zenodo.5882500
+  institution: Politecnico di Milano; Instituto Superior Tecnico, Universidade de Lisboa
+  investigators:
+  - Andrea Farabbi
+  - Fabiola Ghiringhelli
+  - Luca Mainardi
+  - Joao Miguel Sanches
+  - Plinio Moreno
+  - Jose Santos-Victor
+  - Patricia Figueiredo
+  - Athanasios Vourvopoulos
+  keywords:
+  - motor imagery
+  - BCI
+  - brain-computer interface
+  - EEG
+  - robot arm
+  - neurorehabilitation
+  license: CC-BY-4.0
+  publication_year: 2020
+  repository: Zenodo
+experiment:
+  class_labels:
+  - left_hand
+  - right_hand
+  events:
+    left_hand: 769
+    right_hand: 770
+  feedback_type: visual
+  has_training_test_split: true
+  instructions: Imagine left- or right-hand movement following the cue to steer the robot arm toward the target object.
+  mode: online
+  n_classes: 2
+  paradigm: imagery
+  stimulus_modalities:
+  - visual
+  stimulus_type: visual
+  study_design: Cue-based left- vs right-hand motor imagery controlling a Baxter robot arm reaching toward objects, under
+    first-person and third-person visual feedback.
+  synchronicity: cue-based
+  trial_duration: 6.0
+file_format: GDF
+paradigm_specific:
+  detected_paradigm: motor_imagery
+  imagery_duration_s: 4.0
+  imagery_tasks:
+  - left_hand
+  - right_hand
+participants:
+  bci_experience: naive
+  health_status: healthy
+  n_subjects: 12
+  species: homo sapiens
+preprocessing:
+  data_state: raw
+runs_per_session: 4
+sessions_per_subject: 3
+signal_processing:
+  frequency_bands:
+    beta:
+    - 12.0
+    - 30.0
+    mu:
+    - 8.0
+    - 12.0
+tags:
+  modality:
+  - motor
+  pathology:
+  - healthy
+  type:
+  - Motor Imagery
