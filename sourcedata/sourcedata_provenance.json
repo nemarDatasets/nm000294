@@ -1,0 +1,1095 @@
+{
+ "dataset": "nm000294",
+ "moabb_class": "Farabbi2020",
+ "moabb_version_used": "v1.7.1-11-g9c6b1cc",
+ "retrieved": "2026-10-05",
+ "retrieved_by": "moabb.datasets.Farabbi2020.data_path()",
+ "upstream_cache_root": "/voyager/ceph/groups/sdp190/bpinto/moabb-nemar/mne_data/Farabbi2020/MNE-farabbi2020-data",
+ "license": "CC-BY-4.0",
+ "doi": "10.5281/zenodo.5882500",
+ "naming": "upstream_filenames_restored",
+ "n_files": 180,
+ "total_bytes": 5098826894,
+ "files": [
+  {
+   "file": "01/01_session_1/0_resting_state/rest_state-[2020.01.21-10.43.51].gdf",
+   "bytes": 18323632,
+   "sha256": "f689f8f8c1fceca93fbaf0529399217eb89353297380ad3759c039f7d736aafe",
+   "subject": "1"
+  },
+  {
+   "file": "01/01_session_1/1_condition_1/1st-person-online-[2020.01.21-11.07.53].gdf",
+   "bytes": 31039426,
+   "sha256": "22cbddaa1945022cf38b7d6a359804e73c4a29ab354abcde3f520197a8b31fb8",
+   "subject": "1"
+  },
+  {
+   "file": "01/01_session_1/1_condition_1/1st-person-training-[2020.01.21-10.49.25].gdf",
+   "bytes": 30528700,
+   "sha256": "5229274a0dbf7187f7d1ec2d1e29c115b0df46a1a9c4393e85baa8376b696ca3",
+   "subject": "1"
+  },
+  {
+   "file": "01/01_session_1/2_condition_2/3rd-person-online-[2020.01.21-11.38.27].gdf",
+   "bytes": 30887106,
+   "sha256": "8af322bb9e4f0771be880fe2df412673f5601a0b003de3c23329550449226ba3",
+   "subject": "1"
+  },
+  {
+   "file": "01/01_session_1/2_condition_2/3rd-person-training-[2020.01.21-11.21.51].gdf",
+   "bytes": 30528700,
+   "sha256": "66f4fa49abee7ce380fc2cb830a8646a5d38762c884e86da676175576e77f5db",
+   "subject": "1"
+  },
+  {
+   "file": "01/02_session_2/0_resting_state/rest_state-[2020.01.22-11.43.13].gdf",
+   "bytes": 18637184,
+   "sha256": "768d1808bbdcc4eff5c6ffd99c2c8c63d1556ae426e3683e6e173c5a3d2c94d7",
+   "subject": "1"
+  },
+  {
+   "file": "01/02_session_2/1_condition_2/3rd-person-online-[2020.01.22-12.00.56].gdf",
+   "bytes": 30878140,
+   "sha256": "5e731a3a597682c13ffd355037db5b84b292bce552b59bdec89fe43700673784",
+   "subject": "1"
+  },
+  {
+   "file": "01/02_session_2/1_condition_2/3rd-person-training-[2020.01.22-11.49.03].gdf",
+   "bytes": 30528700,
+   "sha256": "216ce6fbbcddef4ab321c65f903d4d8c5d6f7e2329a8db53e1f05e47c3ef69dd",
+   "subject": "1"
+  },
+  {
+   "file": "01/02_session_2/2_condition_1/1st-person-online-[2020.01.22-12.31.06].gdf",
+   "bytes": 30931900,
+   "sha256": "e4796bbb7b6dc59b02f7e10317d7034af7de368763a8337fdde587f2ba66a142",
+   "subject": "1"
+  },
+  {
+   "file": "01/02_session_2/2_condition_1/1st-person-training-[2020.01.22-12.18.33].gdf",
+   "bytes": 30528700,
+   "sha256": "6f8c02c2b38ad8a2a521b9771f20a8919aa3173f1ad7860068e854c1a2b2b8c8",
+   "subject": "1"
+  },
+  {
+   "file": "01/03_session_3/0_resting_state/rest_state-[2020.01.23-12.22.51].gdf",
+   "bytes": 18574458,
+   "sha256": "dcb7f360436d61ebaa94d66d990eba1d87d06279fdfbd6ef43bfeb01ea185707",
+   "subject": "1"
+  },
+  {
+   "file": "01/03_session_3/1_condition_2/3rd-person-online-[2020.01.23-12.45.27].gdf",
+   "bytes": 31012540,
+   "sha256": "82b5d5488ce9ff898ff079caec3a89143183af211cdc00001dbf74b777654413",
+   "subject": "1"
+  },
+  {
+   "file": "01/03_session_3/1_condition_2/3rd-person-training-[2020.01.23-12.33.30].gdf",
+   "bytes": 30528706,
+   "sha256": "544f26dc3ea1acf10af5fb2c87fe6a72ef5738a4d4f83ba3621fe4bc2f9c38ec",
+   "subject": "1"
+  },
+  {
+   "file": "01/03_session_3/2_condition_1/1st-person-online-[2020.01.23-13.13.09].gdf",
+   "bytes": 31379900,
+   "sha256": "40278e06bb9adc9874bd8e5f1cc43b97ffa0b6eb3fb7f6791ab05e57e582030b",
+   "subject": "1"
+  },
+  {
+   "file": "01/03_session_3/2_condition_1/1st-person-training-[2020.01.23-13.00.58].gdf",
+   "bytes": 30528706,
+   "sha256": "dc2426acc5111dfc1a77798cbc8997084749501cd26a718bd140bafd9d0fb477",
+   "subject": "1"
+  },
+  {
+   "file": "02/01_session_1/0_resting_state/rest_state-[2020.01.28-11.23.42].gdf",
+   "bytes": 18565498,
+   "sha256": "43791acc3b56f0828af1122c8bb7842cc18b19ccfb9fd2cd1aa7ac1e08ce2e9a",
+   "subject": "2"
+  },
+  {
+   "file": "02/01_session_1/1_condition_2/3rd-person-online-[2020.01.28-11.46.21].gdf",
+   "bytes": 30967746,
+   "sha256": "ff91894a1997f80b9f12daa28946b58a50820d74b3f01334739451a59397973d",
+   "subject": "2"
+  },
+  {
+   "file": "02/01_session_1/1_condition_2/3rd-person-training-[2020.01.28-11.31.36].gdf",
+   "bytes": 30528706,
+   "sha256": "4cf29c9b7ba42a6f5795e1408759708c4d3a1960a7bc26c96e04bddc86001939",
+   "subject": "2"
+  },
+  {
+   "file": "02/01_session_1/2_condition_1/1st-person-online-[2020.01.28-12.16.02].gdf",
+   "bytes": 30976706,
+   "sha256": "12a1447ca6570de9dbc538b0d93a1188bcbe35d2406762418a580b9f7831002c",
+   "subject": "2"
+  },
+  {
+   "file": "02/01_session_1/2_condition_1/1st-person-training-[2020.01.28-12.04.31].gdf",
+   "bytes": 30528700,
+   "sha256": "17abcd0b9ff86a59ef07a3f5f2b968aef00d552b19bf3d46914a55ca36eb555a",
+   "subject": "2"
+  },
+  {
+   "file": "02/02_session_2/0_resting_state/rest_state-[2020.01.29-11.01.27].gdf",
+   "bytes": 18574458,
+   "sha256": "0758b574645c5954c842f6e6db37d9f494532993e8d1f68fa60eb10dcd991487",
+   "subject": "2"
+  },
+  {
+   "file": "02/02_session_2/1_condition_1/1st-person-online-[2020.01.29-11.19.08].gdf",
+   "bytes": 31164866,
+   "sha256": "8a93a087b917377745b105061a36fd30b7335c7a0e41cfb06d4d9608263855e2",
+   "subject": "2"
+  },
+  {
+   "file": "02/02_session_2/1_condition_1/1st-person-training-[2020.01.29-11.07.03].gdf",
+   "bytes": 30528706,
+   "sha256": "e973c9227e80b362af19f2afb1170400ab02f7fa1d713b98eb5a2dfaa36eb1f2",
+   "subject": "2"
+  },
+  {
+   "file": "02/02_session_2/2_condition_2/3rd-person-online-[2020.01.29-11.47.59].gdf",
+   "bytes": 31155900,
+   "sha256": "a4e2b4bb1577dd6c778d73a510280500e1cc6c647127363fe5086ec9fe95e5fb",
+   "subject": "2"
+  },
+  {
+   "file": "02/02_session_2/2_condition_2/3rd-person-training-[2020.01.29-11.35.53].gdf",
+   "bytes": 30528700,
+   "sha256": "9cdc166cb4ab60959288032710395d3bb4d724317232425a7c2b20abd87e7ef8",
+   "subject": "2"
+  },
+  {
+   "file": "02/03_session_3/0_resting_state/rest_state-[2020.01.30-12.00.29].gdf",
+   "bytes": 18637184,
+   "sha256": "5adb30cfce747094e2d1beb01972c3e85f1b09b39ff41f62a0b32047181bdc08",
+   "subject": "2"
+  },
+  {
+   "file": "02/03_session_3/1_condition_2/3rd-person-online-[2020.01.30-12.19.36].gdf",
+   "bytes": 30985666,
+   "sha256": "508149b2bbcb97eb3e037260260769a199819bcea2af28000203c0b2581e2ff0",
+   "subject": "2"
+  },
+  {
+   "file": "02/03_session_3/1_condition_2/3rd-person-training-[2020.01.30-12.07.20].gdf",
+   "bytes": 30528700,
+   "sha256": "cb6d4c5a7693034a6b1048fced3f323b000e2576e65a62c28ac987d956bc6a13",
+   "subject": "2"
+  },
+  {
+   "file": "02/03_session_3/2_condition_1/1st-person-online-[2020.01.30-12.49.26].gdf",
+   "bytes": 30940860,
+   "sha256": "7b0efda41e466bdbcfad0a41008969d3c6c3460177cb03e89ec47635b4c69aa8",
+   "subject": "2"
+  },
+  {
+   "file": "02/03_session_3/2_condition_1/1st-person-training-[2020.01.30-12.35.37].gdf",
+   "bytes": 30528700,
+   "sha256": "b8ed57ffaaccfafed80698603465eb3de50208cc389eb8fb5b9aff706a673052",
+   "subject": "2"
+  },
+  {
+   "file": "03/01_session_1/0_resting_state/rest_state-[2020.01.28-18.05.06].gdf",
+   "bytes": 18466932,
+   "sha256": "ed56030d298ef1215db4b18e68c890c750cf729f11afe1efe87155f6395944ac",
+   "subject": "3"
+  },
+  {
+   "file": "03/01_session_1/1_condition_2/3rd-person-online-[2020.01.28-18.26.36].gdf",
+   "bytes": 30851260,
+   "sha256": "f4eaf66e6a8ea81b69d1be2324a6e332d6f3d25850dc906fd43e93168c84e5cd",
+   "subject": "3"
+  },
+  {
+   "file": "03/01_session_1/1_condition_2/3rd-person-training-[2020.01.28-18.13.50].gdf",
+   "bytes": 30528718,
+   "sha256": "e33fb8e08add83a7f4041dc6441ca0c76d51a72ec70ad40a2692e55d0576c7b1",
+   "subject": "3"
+  },
+  {
+   "file": "03/01_session_1/2_condition_1/1st-person-online-[2020.01.28-18.53.08].gdf",
+   "bytes": 30806460,
+   "sha256": "756e8151f4c20c730193c9bc99137120e86e25b93a2f1737fa2df18804a88a02",
+   "subject": "3"
+  },
+  {
+   "file": "03/01_session_1/2_condition_1/1st-person-training-[2020.01.28-18.41.34].gdf",
+   "bytes": 30528700,
+   "sha256": "07fb84a543b6d78f5ca23cef86966594b07588c887b1a317ab95589270fd798d",
+   "subject": "3"
+  },
+  {
+   "file": "03/02_session_2/0_resting_state/rest_state-[2020.01.29-17.59.19].gdf",
+   "bytes": 18637184,
+   "sha256": "3e418d665244273c8d3c7af64f1942bb2051cd31c5a54c6a42569dd92ef73418",
+   "subject": "3"
+  },
+  {
+   "file": "03/02_session_2/1_condition_1/1st-person-online-[2020.01.29-18.26.56].gdf",
+   "bytes": 31478466,
+   "sha256": "6caf612ae714a72525553356e5ba7e79b8170bc80506db4729a65c144b8a23aa",
+   "subject": "3"
+  },
+  {
+   "file": "03/02_session_2/1_condition_1/1st-person-training-[2020.01.29-18.05.28].gdf",
+   "bytes": 30528700,
+   "sha256": "71c0701a781d2151a16a98f053fc4b9175ca10dd54bfa88012fc139e0163c138",
+   "subject": "3"
+  },
+  {
+   "file": "03/02_session_2/2_condition_2/3rd-person-online-[2020.01.29-18.55.24].gdf",
+   "bytes": 31523266,
+   "sha256": "e24080b509df9309f4c9408cbaa1dc1b488d5b22dd3f0f690d9ac02cb9ac262d",
+   "subject": "3"
+  },
+  {
+   "file": "03/02_session_2/2_condition_2/3rd-person-training-[2020.01.29-18.42.57].gdf",
+   "bytes": 30528700,
+   "sha256": "67f6d4afc0a2090d9e7dffd256a05ba8be66024d3471ca5a2ba745f49a18ed81",
+   "subject": "3"
+  },
+  {
+   "file": "03/03_session_3/0_resting_state/rest_state-[2020.01.30-18.12.50].gdf",
+   "bytes": 18637184,
+   "sha256": "76f13f910825308cb7cf598cd66230ed10c2dd667aed1787d06f70086eedc78c",
+   "subject": "3"
+  },
+  {
+   "file": "03/03_session_3/1_condition_2/3rd-person-online-[2020.01.30-18.31.27].gdf",
+   "bytes": 31308220,
+   "sha256": "ffe6294acfd62e214ed8d6f4edc6b67a0000275bc44adb2f6f1b6c74c82f2007",
+   "subject": "3"
+  },
+  {
+   "file": "03/03_session_3/1_condition_2/3rd-person-training-[2020.01.30-18.19.19].gdf",
+   "bytes": 30528706,
+   "sha256": "dc07fb30455c13cd142693c0e3fd0294ea4d5f6316b49869cdaed71ff2bad425",
+   "subject": "3"
+  },
+  {
+   "file": "03/03_session_3/2_condition_1/1st-person-online-[2020.01.30-18.57.33].gdf",
+   "bytes": 31379906,
+   "sha256": "18ed83c9cdf8b2b924ac85d637e30e52bc9f35d522f85e7c6c707611764c803f",
+   "subject": "3"
+  },
+  {
+   "file": "03/03_session_3/2_condition_1/1st-person-training-[2020.01.30-18.46.04].gdf",
+   "bytes": 30528700,
+   "sha256": "6e4ae0b56339fef785c852257b5965137eca7fdef60a677fd9353ab8f0482ba3",
+   "subject": "3"
+  },
+  {
+   "file": "04/01_session_1/0_resting_state/rest_state-[2020.02.05-11.33.56].gdf",
+   "bytes": 18637184,
+   "sha256": "c0453cc69609ebddd76ffab3d860979f5d1d44a6258b2199b8a37877653203c4",
+   "subject": "4"
+  },
+  {
+   "file": "04/01_session_1/1_condition_2/3rd-person-online-[2020.02.05-11.52.55].gdf",
+   "bytes": 31182780,
+   "sha256": "9073466c38b3880d943eb73475c7f733ce5dfbe6d6af1405d431d6406c80d520",
+   "subject": "4"
+  },
+  {
+   "file": "04/01_session_1/1_condition_2/3rd-person-training-[2020.02.05-11.40.51].gdf",
+   "bytes": 30421180,
+   "sha256": "13b713c916f1c003732c32d9cf585b2bbcc1ec326884fb3301cc33ed759974e8",
+   "subject": "4"
+  },
+  {
+   "file": "04/01_session_1/2_condition_1/1st-person-online-[2020.02.05-12.21.35].gdf",
+   "bytes": 31200706,
+   "sha256": "d21c496ffb37cf0e846452f4ecc39de5877a74833b086e0e46ebe059b90ce699",
+   "subject": "4"
+  },
+  {
+   "file": "04/01_session_1/2_condition_1/1st-person-training-[2020.02.05-12.09.34].gdf",
+   "bytes": 30528700,
+   "sha256": "4638cdd6ad9c84be575c7fabd6317775be90be26c03b0ba94f5b31b352ad2cd4",
+   "subject": "4"
+  },
+  {
+   "file": "04/02_session_2/0_resting_state/rest_state-[2020.02.06-11.32.42].gdf",
+   "bytes": 18628224,
+   "sha256": "83a1f739df1c374b1e8eaecd17d2eaedd210fafdedf551628e1d7939a62130dd",
+   "subject": "4"
+  },
+  {
+   "file": "04/02_session_2/1_condition_1/1st-person-online-[2020.02.06-11.54.02].gdf",
+   "bytes": 31012570,
+   "sha256": "656e09da54e1af1a41eea67cadf7a2956a8fce3769e67d5e6b3d05dad3366452",
+   "subject": "4"
+  },
+  {
+   "file": "04/02_session_2/1_condition_1/1st-person-training-[2020.02.06-11.38.42].gdf",
+   "bytes": 30510798,
+   "sha256": "b8c38d404495acc86203d08d97f8b7131440d6edecf15ab83660a94a5d1c9c29",
+   "subject": "4"
+  },
+  {
+   "file": "04/02_session_2/2_condition_2/3rd-person-online-[2020.02.06-12.22.34].gdf",
+   "bytes": 31272392,
+   "sha256": "d7226bf080c4f94a357534727f4b3d348a7bb17c853469cdfe300a44c8fab7b3",
+   "subject": "4"
+  },
+  {
+   "file": "04/02_session_2/2_condition_2/3rd-person-training-[2020.02.06-12.07.52].gdf",
+   "bytes": 30510786,
+   "sha256": "1c7f024cb490b0275f98f16ce8edc179b91b2460aa1251b09dd2a4341657f443",
+   "subject": "4"
+  },
+  {
+   "file": "04/03_session_3/0_resting_state/rest_state-[2020.02.07-11.47.49].gdf",
+   "bytes": 18637184,
+   "sha256": "bb642fd106c191f09b2194ad8b92da7bb0d26b59fcf147cf2fc9629a90e19d14",
+   "subject": "4"
+  },
+  {
+   "file": "04/03_session_3/1_condition_2/3rd-person-online-[2020.02.07-12.15.17].gdf",
+   "bytes": 30869192,
+   "sha256": "e41a7394fcc4b3cae2a9ee83dcfc95dc60046cfad9613945fa93e592ff92a0c6",
+   "subject": "4"
+  },
+  {
+   "file": "04/03_session_3/1_condition_2/3rd-person-training-[2020.02.07-12.03.43].gdf",
+   "bytes": 30528700,
+   "sha256": "296c3f71f7fca8505f9c7f54015312c3769485397fea3cf09ecbfdcf670b842b",
+   "subject": "4"
+  },
+  {
+   "file": "04/03_session_3/2_condition_1/1st-person-online-[2020.02.07-12.38.21].gdf",
+   "bytes": 30976712,
+   "sha256": "e2666db71f0ae880f9d1e0a7b0f9f56e21129782483980a558040a14094cd46e",
+   "subject": "4"
+  },
+  {
+   "file": "04/03_session_3/2_condition_1/1st-person-training-[2020.02.07-12.26.25].gdf",
+   "bytes": 30528706,
+   "sha256": "a194c94d5f41bb6bf3803531c037baed4fb95764b7b8f00b302f9d58298d68bc",
+   "subject": "4"
+  },
+  {
+   "file": "05/01_session_1/0_resting_state/rest_state-[2020.02.05-15.20.55].gdf",
+   "bytes": 18637190,
+   "sha256": "cb423bc937dc31c0dfb8c090f96465966e47f41e29a70973e65e8dce85f4463f",
+   "subject": "5"
+  },
+  {
+   "file": "05/01_session_1/1_condition_1/1st-person-online-[2020.02.05-15.42.03].gdf",
+   "bytes": 31048386,
+   "sha256": "aa30e1fb0899732df9d55557636753ed1fda5c5b7fc8d0d3ecea32c539b873aa",
+   "subject": "5"
+  },
+  {
+   "file": "05/01_session_1/1_condition_1/1st-person-training-[2020.02.05-15.29.12].gdf",
+   "bytes": 30528700,
+   "sha256": "2819744ef616b8d9e26497533ab57450315619aa9430b5b72a0f1e2be5810e1b",
+   "subject": "5"
+  },
+  {
+   "file": "05/01_session_1/2_condition_2/3rd-person-online-[2020.02.05-16.04.39].gdf",
+   "bytes": 31003586,
+   "sha256": "6b3fcdb6eb7fb9f86546cf958aa3b4632927c481b2e0cb4c1a8c4005071c33e6",
+   "subject": "5"
+  },
+  {
+   "file": "05/01_session_1/2_condition_2/3rd-person-training-[2020.02.05-15.52.43].gdf",
+   "bytes": 30528706,
+   "sha256": "d6f88ab738c65626e8fda4585205507eb6a9a29c5d3794b68fda58c4a9bedb73",
+   "subject": "5"
+  },
+  {
+   "file": "05/02_session_2/0_resting_state/rest_state-[2020.02.06-15.37.47].gdf",
+   "bytes": 18637184,
+   "sha256": "b76b7fb99a26c9e3a2f5bd68545ab1084ce1376d4d72226c85d53024bb52329e",
+   "subject": "5"
+  },
+  {
+   "file": "05/02_session_2/1_condition_2/3rd-person-online-[2020.02.06-15.55.38].gdf",
+   "bytes": 30985672,
+   "sha256": "8db2a35e8ddc78d34418aa4ab4a3231e3986c13ac42626454ca19aa4c06bfee2",
+   "subject": "5"
+  },
+  {
+   "file": "05/02_session_2/1_condition_2/3rd-person-training-[2020.02.06-15.44.20].gdf",
+   "bytes": 30528700,
+   "sha256": "d8195ccb2b56a996ddad00586a36eb96bd09c957dc4d68207f6ef821d165dd20",
+   "subject": "5"
+  },
+  {
+   "file": "05/02_session_2/2_condition_1/1st-person-online-[2020.02.06-16.20.52].gdf",
+   "bytes": 30958780,
+   "sha256": "39b7d5a9cee2f47fd66be5c92862cd135e36f139db7e519f0f42f4284c9a81b6",
+   "subject": "5"
+  },
+  {
+   "file": "05/02_session_2/2_condition_1/1st-person-training-[2020.02.06-16.08.23].gdf",
+   "bytes": 30528700,
+   "sha256": "6c66d724991e421a29e0caca0a7029acf2ca2defd28914ad1ab55d1facd3e2b6",
+   "subject": "5"
+  },
+  {
+   "file": "05/03_session_3/0_resting_state/rest_state-[2020.02.07-15.28.20].gdf",
+   "bytes": 18637184,
+   "sha256": "1fd71f618e30c39cca93928f623dada0755750e4380644de787b38fd42748ada",
+   "subject": "5"
+  },
+  {
+   "file": "05/03_session_3/1_condition_2/3rd-person-online-[2020.02.07-15.47.34].gdf",
+   "bytes": 31281346,
+   "sha256": "50ea27078ff795463753665cc546ba69c8a2821e93b64d3ca6ea377b6f08fb77",
+   "subject": "5"
+  },
+  {
+   "file": "05/03_session_3/1_condition_2/3rd-person-training-[2020.02.07-15.36.13].gdf",
+   "bytes": 30528700,
+   "sha256": "129cb86adcab56fbbdb1fd84acd2d595bb3fbe26b2e3ec90ca45899d502c10a0",
+   "subject": "5"
+  },
+  {
+   "file": "05/03_session_3/2_condition_1/1st-person-online-[2020.02.07-16.11.10].gdf",
+   "bytes": 31120060,
+   "sha256": "f03b08057c7c9cc1d061a9008a3432fd3ce15578d6616cb70a49af8754dff0a3",
+   "subject": "5"
+  },
+  {
+   "file": "05/03_session_3/2_condition_1/1st-person-training-[2020.02.07-15.59.18].gdf",
+   "bytes": 30528700,
+   "sha256": "7ccdcaa1685e3b7e63ab35cf332db3b21e890bf001d641f6f61944e76641823d",
+   "subject": "5"
+  },
+  {
+   "file": "06/01_session_1/0_resting_state/rest_state-[2020.02.12-11.30.41].gdf",
+   "bytes": 18637184,
+   "sha256": "331db12200a1b32263b0a597f643b637fee8186b9c0fae2b9572f9fe0a1317f2",
+   "subject": "6"
+  },
+  {
+   "file": "06/01_session_1/1_condition_1/1st-person-online-[2020.02.12-11.47.45].gdf",
+   "bytes": 31003580,
+   "sha256": "ea8158a76157553835f235bcb90fb5db0364603504d678d3b08b061b1cd0c777",
+   "subject": "6"
+  },
+  {
+   "file": "06/01_session_1/1_condition_1/1st-person-training-[2020.02.12-11.36.25].gdf",
+   "bytes": 30528700,
+   "sha256": "93e25384bc52cea886d0a9b5662249099701a0e094bbb5fb86584e95b57dcbb7",
+   "subject": "6"
+  },
+  {
+   "file": "06/01_session_1/2_condition_2/3rd-person-online-[2020.02.12-12.23.24].gdf",
+   "bytes": 30922940,
+   "sha256": "4e44e79411ce06a83b3d43e452e32f5962904709d430ad62f5ad889d8dbd9a27",
+   "subject": "6"
+  },
+  {
+   "file": "06/01_session_1/2_condition_2/3rd-person-training-[2020.02.12-12.12.34].gdf",
+   "bytes": 30528700,
+   "sha256": "8e0452394c51dfa3287ac735694baeb64e00b71912430cd298d44fa7aba7024a",
+   "subject": "6"
+  },
+  {
+   "file": "06/02_session_2/0_resting_state/rest_state-[2020.02.13-12.11.15].gdf",
+   "bytes": 18637184,
+   "sha256": "4e16c3ca2d1dad0adad6f3f16884553def7d8cd9bb49f84e2340444bfe9724b3",
+   "subject": "6"
+  },
+  {
+   "file": "06/02_session_2/1_condition_1/1st-person-online-[2020.02.13-12.28.04].gdf",
+   "bytes": 31353026,
+   "sha256": "92e088c38cc963b56866742fa0d926e5c34e0284158de7e9ead60c62e786d77b",
+   "subject": "6"
+  },
+  {
+   "file": "06/02_session_2/1_condition_1/1st-person-training-[2020.02.13-12.16.50].gdf",
+   "bytes": 30528700,
+   "sha256": "ca6c6d4b65da524fb623d24d9524531507c3f906002e6c8ad72b8d13945ecd82",
+   "subject": "6"
+  },
+  {
+   "file": "06/02_session_2/2_condition_2/3rd-person-online-[2020.02.13-12.50.26].gdf",
+   "bytes": 30958786,
+   "sha256": "5cc7ede064e3e10da4e662969d44a72171d668cdf7ff85474f8e7aaa10f9a68d",
+   "subject": "6"
+  },
+  {
+   "file": "06/02_session_2/2_condition_2/3rd-person-training-[2020.02.13-12.39.22].gdf",
+   "bytes": 30528706,
+   "sha256": "20c422e9ad8f74b4e377ff4c196bbcae1825e31d7d630363a36e700065953262",
+   "subject": "6"
+  },
+  {
+   "file": "06/03_session_3/0_resting_state/rest_state-[2020.02.14-11.10.48].gdf",
+   "bytes": 18637184,
+   "sha256": "0d3fc7342f902ba99e1cc1faae12cac5f2ffa2324ab96c6ec4add2ee3729e145",
+   "subject": "6"
+  },
+  {
+   "file": "06/03_session_3/1_condition_2/3rd-person-online-[2020.02.14-11.29.47].gdf",
+   "bytes": 30940860,
+   "sha256": "c3d0e2e65058c991e010c200cbb43b26c752555705aec82c7f59c7f050d202b8",
+   "subject": "6"
+  },
+  {
+   "file": "06/03_session_3/1_condition_2/3rd-person-training-[2020.02.14-11.18.20].gdf",
+   "bytes": 30528700,
+   "sha256": "43282b5829d3e0e69ff773ae94029c1459f39d3d1f640d588f6a2463cdd0b12f",
+   "subject": "6"
+  },
+  {
+   "file": "06/03_session_3/2_condition_1/1st-person-online-[2020.02.14-11.51.44].gdf",
+   "bytes": 31075260,
+   "sha256": "cb081ec7a336e9861e3737483d4ae6a4db97afc73e40663875ab6ef00add4e11",
+   "subject": "6"
+  },
+  {
+   "file": "06/03_session_3/2_condition_1/1st-person-training-[2020.02.14-11.40.17].gdf",
+   "bytes": 30528700,
+   "sha256": "c6cf50bf505fdd0308e234542a3e97d7fe074099cc74f6ef6d011c6e0f6bf98e",
+   "subject": "6"
+  },
+  {
+   "file": "07/01_session_1/0_resting_state/rest_state-[2020.02.19-11.23.44].gdf",
+   "bytes": 18637184,
+   "sha256": "ef21a2e8bed52e8afc5fd9ee67e5b3425ea0c61c1e5e4f36362d13f1e426d918",
+   "subject": "7"
+  },
+  {
+   "file": "07/01_session_1/1_condition_1/1st-person-online-[2020.02.19-11.57.44].gdf",
+   "bytes": 31433666,
+   "sha256": "ab9e1739538ecceb107ba227c149b73eda69618ad83193d431b91eac5dfd402f",
+   "subject": "7"
+  },
+  {
+   "file": "07/01_session_1/1_condition_1/1st-person-training-[2020.02.19-11.45.52].gdf",
+   "bytes": 30528712,
+   "sha256": "53cbe1aecd0ae0b719676efcf9390ae7f94d643f01d8ea785dc68bee6a57fec0",
+   "subject": "7"
+  },
+  {
+   "file": "07/01_session_1/2_condition_2/3rd-person-online-[2020.02.19-12.22.00].gdf",
+   "bytes": 30878158,
+   "sha256": "b09c2188f2782f6ca95f4f88c5e5b8e456b5033d93c10baa7ce84e36afadc0ce",
+   "subject": "7"
+  },
+  {
+   "file": "07/01_session_1/2_condition_2/3rd-person-training-[2020.02.19-12.10.46].gdf",
+   "bytes": 30528730,
+   "sha256": "0ccb38f040fb4861b631dbf0b3ddbb416896211ca4d3e2df2908364490ce43f5",
+   "subject": "7"
+  },
+  {
+   "file": "07/02_session_2/0_resting_state/rest_state-[2020.02.20-10.56.15].gdf",
+   "bytes": 18637184,
+   "sha256": "4d109fb8bbb7a84af0c3dd13b0fd305304019a2a6317086e687fceb8568776cb",
+   "subject": "7"
+  },
+  {
+   "file": "07/02_session_2/1_condition_1/1st-person-online-[2020.02.20-11.12.50].gdf",
+   "bytes": 31003592,
+   "sha256": "462a57e16f35d010ddbd18ab35fada2d99a074831490d3bb65d52405d52e6b69",
+   "subject": "7"
+  },
+  {
+   "file": "07/02_session_2/1_condition_1/1st-person-training-[2020.02.20-11.01.32].gdf",
+   "bytes": 30528730,
+   "sha256": "0eb37afe5694e6efcfae75e149f9d92553aa87641e84b5d678cdb383150853a5",
+   "subject": "7"
+  },
+  {
+   "file": "07/02_session_2/2_condition_2/3rd-person-online-[2020.02.20-11.38.32].gdf",
+   "bytes": 30967746,
+   "sha256": "ae73e4324473de995f597ff1b7845a5c8473ec99928f6e456daa8bb3ffb51d0a",
+   "subject": "7"
+  },
+  {
+   "file": "07/02_session_2/2_condition_2/3rd-person-training-[2020.02.20-11.26.38].gdf",
+   "bytes": 30528706,
+   "sha256": "d2ff8aff2154625133c604ed7ab36c434d919d25e782a1453aaf77826ee64ca8",
+   "subject": "7"
+  },
+  {
+   "file": "07/03_session_3/0_resting_state/rest_state-[2020.02.21-09.55.55].gdf",
+   "bytes": 18637184,
+   "sha256": "dcbf15b9a1d903f49488841499983d91a124cd609a47be879063d2a490222932",
+   "subject": "7"
+  },
+  {
+   "file": "07/03_session_3/1_condition_1/1st-person-online-[2020.02.21-10.18.28].gdf",
+   "bytes": 31030484,
+   "sha256": "822577543c4f7f097559b65bf388a8a2c8c8000db8b9c62a7a48c0bc7b7d228b",
+   "subject": "7"
+  },
+  {
+   "file": "07/03_session_3/1_condition_1/1st-person-training-[2020.02.21-10.06.52].gdf",
+   "bytes": 30528700,
+   "sha256": "818db4e1fe30700fbc6e031e4cd725d1ee39a8c6f64151b027147334a00e7756",
+   "subject": "7"
+  },
+  {
+   "file": "07/03_session_3/2_condition_2/3rd-person-online-[2020.02.21-10.39.07].gdf",
+   "bytes": 30761666,
+   "sha256": "560beedbe12151656c6e2e7fcd3b16f529eaf5e9d4f0029e04547b709414cb26",
+   "subject": "7"
+  },
+  {
+   "file": "07/03_session_3/2_condition_2/3rd-person-training-[2020.02.21-10.28.23].gdf",
+   "bytes": 30528718,
+   "sha256": "838873d441d0fe16b0b8c16620a5776f50be19cdf5b97b17239587b6716b851d",
+   "subject": "7"
+  },
+  {
+   "file": "08/01_session_1/0_resting_state/rest_state-[2020.02.19-17.23.03].gdf",
+   "bytes": 18637184,
+   "sha256": "6dcbec1c562cca1a05df511004e9daa53274be37d84eb7b9cc0b6a16f19859a6",
+   "subject": "8"
+  },
+  {
+   "file": "08/01_session_1/1_condition_1/1st-person-online-[2020.02.19-17.45.04].gdf",
+   "bytes": 30788546,
+   "sha256": "bd5baab772f8e323167f5cf16c9ef6c61a5c94a07aa7bcb8e07376dcd3feb401",
+   "subject": "8"
+  },
+  {
+   "file": "08/01_session_1/1_condition_1/1st-person-training-[2020.02.19-17.33.25].gdf",
+   "bytes": 30528712,
+   "sha256": "78de2719e459960e409a72a94dd4bf774ae961ab4f938ef7337b622d02f7164d",
+   "subject": "8"
+  },
+  {
+   "file": "08/01_session_1/2_condition_2/3rd-person-online-[2020.02.19-18.09.09].gdf",
+   "bytes": 31084226,
+   "sha256": "bd890e5b4de27cf8cf8e0748c57a01b48f78c5fc3d76fa80b1009fcfd771dcb1",
+   "subject": "8"
+  },
+  {
+   "file": "08/01_session_1/2_condition_2/3rd-person-training-[2020.02.19-17.57.26].gdf",
+   "bytes": 30528700,
+   "sha256": "83b4f8ecc3cf87c4230aea407ab3b5b07aa83b77ca741c7ecca10487cfca1cfc",
+   "subject": "8"
+  },
+  {
+   "file": "08/02_session_2/0_resting_state/rest_state-[2020.02.20-16.55.23].gdf",
+   "bytes": 18637184,
+   "sha256": "a5eda7279f605f275ef052bd1e21855ee6ba2ddf817a68a3ed7dac0943c84b3c",
+   "subject": "8"
+  },
+  {
+   "file": "08/02_session_2/1_condition_2/3rd-person-online-[2020.02.20-17.14.58].gdf",
+   "bytes": 30967752,
+   "sha256": "c5f2a3a171576904d3227eca7945719666b2a3a5d1efba493402b5652aa61446",
+   "subject": "8"
+  },
+  {
+   "file": "08/02_session_2/1_condition_2/3rd-person-training-[2020.02.20-17.03.04].gdf",
+   "bytes": 30528718,
+   "sha256": "98cca94e74e743e8883a2e2748f092cb22b8c1fe83803885703331af58611eb5",
+   "subject": "8"
+  },
+  {
+   "file": "08/02_session_2/2_condition_1/1st-person-online-[2020.02.20-17.40.46].gdf",
+   "bytes": 30905020,
+   "sha256": "d782d9200ff15a8530adeb47aae69b37ff5607d15eb84abc97ae75bf11cca024",
+   "subject": "8"
+  },
+  {
+   "file": "08/02_session_2/2_condition_1/1st-person-training-[2020.02.20-17.29.12].gdf",
+   "bytes": 30528706,
+   "sha256": "f44f75d3e85d2b72c3f01b8d21102c97d8cb8154a15929fbd3929fa1005b7f7a",
+   "subject": "8"
+  },
+  {
+   "file": "08/03_session_3/0_resting_state/rest_state-[2020.02.21-16.58.23].gdf",
+   "bytes": 18637184,
+   "sha256": "c42caf2feaa827bc9b869171305ee2b8b98d9e16c063dbd41e2bc6aaf291ae5e",
+   "subject": "8"
+  },
+  {
+   "file": "08/03_session_3/1_condition_2/3rd-person-online-[2020.02.21-17.17.18].gdf",
+   "bytes": 30958798,
+   "sha256": "d27028cef0a77a08f1de96d71808d83048447674e21962d8ffd9e465ab2796c0",
+   "subject": "8"
+  },
+  {
+   "file": "08/03_session_3/1_condition_2/3rd-person-training-[2020.02.21-17.06.03].gdf",
+   "bytes": 30528712,
+   "sha256": "b11a6cf8db1c56eaebdb97d65f2c4e18af941c0aef7e554401642e7f3111e1f2",
+   "subject": "8"
+  },
+  {
+   "file": "08/03_session_3/2_condition_1/1st-person-online-[2020.02.21-17.40.13].gdf",
+   "bytes": 30707906,
+   "sha256": "3b6c8e22d113a0a8282b104ab33aaa94ad9aeaf7739cf3cad84f554504b0d3fc",
+   "subject": "8"
+  },
+  {
+   "file": "08/03_session_3/2_condition_1/1st-person-training-[2020.02.21-17.28.42].gdf",
+   "bytes": 30528724,
+   "sha256": "d3c57cf8a3dfbfba479b0a2dfb4ca7c6624579bd4ae6c343dbe974fb41803086",
+   "subject": "8"
+  },
+  {
+   "file": "09/01_session_1/0_resting_state/rest_state-[2020.02.26-12.10.25].gdf",
+   "bytes": 18637184,
+   "sha256": "5cff8a0dedac656ddf9dc2b4105b3574c5603b4ccdf9489e4df8b4add8f19a98",
+   "subject": "9"
+  },
+  {
+   "file": "09/01_session_1/1_condition_1/1st-person-online-[2020.02.26-12.45.35].gdf",
+   "bytes": 30940884,
+   "sha256": "88538a8e61ea5ff40d01e491a1a21cfd9a2555d4dd6ec644ea418fcd11a2caba",
+   "subject": "9"
+  },
+  {
+   "file": "09/01_session_1/1_condition_1/1st-person-training-[2020.02.26-12.34.13].gdf",
+   "bytes": 30528724,
+   "sha256": "c038b7a5480be1df8c55e302eeb1bffde85e05a81c75386f10b1a0f08cfc3a92",
+   "subject": "9"
+  },
+  {
+   "file": "09/01_session_1/2_condition_2/3rd-person-online-[2020.02.26-13.07.54].gdf",
+   "bytes": 31066300,
+   "sha256": "28630a6c60b9f46cdc7efd747bbf12c14fa4e5365bffa9b8db87d204d0b8cf27",
+   "subject": "9"
+  },
+  {
+   "file": "09/01_session_1/2_condition_2/3rd-person-training-[2020.02.26-12.57.22].gdf",
+   "bytes": 30528706,
+   "sha256": "6ba7094460a503cb532970ffac8fc8643bb99cca44521e9878800a9786b6c491",
+   "subject": "9"
+  },
+  {
+   "file": "09/02_session_2/0_resting_state/rest_state-[2020.02.27-12.38.58].gdf",
+   "bytes": 18637184,
+   "sha256": "ac69920ed91d3b7e3cd0b039d17b999ac643930207e1b2ffcbef68c525daaadf",
+   "subject": "9"
+  },
+  {
+   "file": "09/02_session_2/1_condition_1/1st-person-online-[2020.02.27-12.56.48].gdf",
+   "bytes": 31111106,
+   "sha256": "d5ccd4ce1cac585e2c288f5325a994670f6db01e17c1c7455707387985e499c2",
+   "subject": "9"
+  },
+  {
+   "file": "09/02_session_2/1_condition_1/1st-person-training-[2020.02.27-12.44.59].gdf",
+   "bytes": 30528724,
+   "sha256": "b87c0bdcc8a618bddbbb68037da75988eb8833f75aba3003d71e51ae49f75414",
+   "subject": "9"
+  },
+  {
+   "file": "09/02_session_2/2_condition_2/3rd-person-online-[2020.02.27-13.17.44].gdf",
+   "bytes": 30707918,
+   "sha256": "d0bbd462d7bb76d06b901e0df69a1c3bb1cc6ce39452404b9e375bbcb21e8ca0",
+   "subject": "9"
+  },
+  {
+   "file": "09/02_session_2/2_condition_2/3rd-person-training-[2020.02.27-13.06.55].gdf",
+   "bytes": 30528706,
+   "sha256": "1f3bfcaa2a06c6697987e6e90f0fbbff9e4fe9dea7270a88e08e223028f5d58a",
+   "subject": "9"
+  },
+  {
+   "file": "09/03_session_3/0_resting_state/rest_state-[2020.02.28-11.17.48].gdf",
+   "bytes": 18637184,
+   "sha256": "49800703f05ac1eefa2fa7ca58e8ac254039aac2402c42530eec17feaeb62a49",
+   "subject": "9"
+  },
+  {
+   "file": "09/03_session_3/1_condition_1/1st-person-online-[2020.02.28-11.34.44].gdf",
+   "bytes": 30716872,
+   "sha256": "78b62ad16705ff14269e644d22600f7220c38f41d759ee017a85fd116063b096",
+   "subject": "9"
+  },
+  {
+   "file": "09/03_session_3/1_condition_1/1st-person-training-[2020.02.28-11.23.49].gdf",
+   "bytes": 30528718,
+   "sha256": "0728873a24b1869d0c2b3a5204ae5f105ac63a5a1f1f97b67e3508941c4a1252",
+   "subject": "9"
+  },
+  {
+   "file": "09/03_session_3/2_condition_2/3rd-person-online-[2020.02.28-11.57.08].gdf",
+   "bytes": 30681050,
+   "sha256": "5c88fbb3a90a00b407d7b49a47b473acac6d43a4dffd80fbb22ed5120443b50e",
+   "subject": "9"
+  },
+  {
+   "file": "09/03_session_3/2_condition_2/3rd-person-training-[2020.02.28-11.45.41].gdf",
+   "bytes": 30528706,
+   "sha256": "e47a4ebd39bd5d3b27a62738aa5fa8ecb05f24fd11b979fca3f032c247a88bb2",
+   "subject": "9"
+  },
+  {
+   "file": "10/01_session_1/0_resting_state/rest_state-[2020.02.26-15.36.38].gdf",
+   "bytes": 18637184,
+   "sha256": "4d011835c091fbffada1ddc5e8c486787e74876c429ee390d156c789f82562f5",
+   "subject": "10"
+  },
+  {
+   "file": "10/01_session_1/1_condition_2/3rd-person-online-[2020.02.26-15.54.11].gdf",
+   "bytes": 30734792,
+   "sha256": "476a8bc4403ebdb23c19a02d630055e77d8f83d0fa771fd37dbbf25ccd7a694d",
+   "subject": "10"
+  },
+  {
+   "file": "10/01_session_1/1_condition_2/3rd-person-training-[2020.02.26-15.42.24].gdf",
+   "bytes": 30528706,
+   "sha256": "09e475875791f6923cd3dc55b0713b093b769100d086b68b3abb0677a27f4e29",
+   "subject": "10"
+  },
+  {
+   "file": "10/01_session_1/2_condition_1/1st-person-online-[2020.02.26-16.19.47].gdf",
+   "bytes": 31003598,
+   "sha256": "18d94e47298a28391dc02176556b0b9e2a09976782aa8fcdd9c71ae665590c8d",
+   "subject": "10"
+  },
+  {
+   "file": "10/01_session_1/2_condition_1/1st-person-training-[2020.02.26-16.08.41].gdf",
+   "bytes": 30528712,
+   "sha256": "fca7d5eca19c86b7d5763e4af5aac5aa5e0c223899bd53dacabfe6c312548a7b",
+   "subject": "10"
+  },
+  {
+   "file": "10/02_session_2/0_resting_state/rest_state-[2020.02.27-16.11.41].gdf",
+   "bytes": 18637184,
+   "sha256": "cbb0e23ddfe64416e3579e6f07a1cbb2ac0ec85bf581b40e720f58f361ea04d3",
+   "subject": "10"
+  },
+  {
+   "file": "10/02_session_2/1_condition_2/3rd-person-online-[2020.02.27-16.28.59].gdf",
+   "bytes": 31075278,
+   "sha256": "b5a85852550864fea2b9c4d4be23f748f798da6d557d7b1ded4f539f64c87fec",
+   "subject": "10"
+  },
+  {
+   "file": "10/02_session_2/1_condition_2/3rd-person-training-[2020.02.27-16.18.04].gdf",
+   "bytes": 30528712,
+   "sha256": "e032bf60b3079df1aadaf3e287a8b82f5c4ce09ebe9c51bf68778fd8ef648798",
+   "subject": "10"
+  },
+  {
+   "file": "10/02_session_2/2_condition_1/1st-person-online-[2020.02.27-16.50.40].gdf",
+   "bytes": 30743758,
+   "sha256": "b7fd984fb706b425c6b3ee6564423e4fdbcb79437612f6f2ca4dae0cb104d988",
+   "subject": "10"
+  },
+  {
+   "file": "10/02_session_2/2_condition_1/1st-person-training-[2020.02.27-16.39.41].gdf",
+   "bytes": 30528718,
+   "sha256": "d05263aa2d66dc6d15f522c591da3a2194cd3eb579f75613839ea21ec7b5da9e",
+   "subject": "10"
+  },
+  {
+   "file": "10/03_session_3/0_resting_state/rest_state-[2020.02.28-16.06.27].gdf",
+   "bytes": 18601338,
+   "sha256": "3d73a70fba9b702190e4fdc99a0e65c71c7252388e335ac4267107bc286e3671",
+   "subject": "10"
+  },
+  {
+   "file": "10/03_session_3/1_condition_1/1st-person-online-[2020.02.28-16.24.02].gdf",
+   "bytes": 30546626,
+   "sha256": "b726a03e253f73586d720011945dfc2db4fa412bb4bba3358f0d555292a1a7fa",
+   "subject": "10"
+  },
+  {
+   "file": "10/03_session_3/1_condition_1/1st-person-training-[2020.02.28-16.13.29].gdf",
+   "bytes": 30528706,
+   "sha256": "ffbdd7807c754eff2fb3577239e84e2552830edc2fc562c8862b1eb90b9665f3",
+   "subject": "10"
+  },
+  {
+   "file": "10/03_session_3/2_condition_2/3rd-person-online-[2020.02.28-16.43.52].gdf",
+   "bytes": 30636220,
+   "sha256": "d74cb4eeea0d9df036dec4c7b74064f0f3f2a39f22c95aad6ff3cf5e40a8ee9b",
+   "subject": "10"
+  },
+  {
+   "file": "10/03_session_3/2_condition_2/3rd-person-training-[2020.02.28-16.33.21].gdf",
+   "bytes": 30528724,
+   "sha256": "e029c770300dba42efcd6436f5f90b45f3af74ac7f322e8c38d859e31194a6ca",
+   "subject": "10"
+  },
+  {
+   "file": "11/01_session_1/0_resting_state/rest_state-[2020.03.04-11.22.14].gdf",
+   "bytes": 18637184,
+   "sha256": "2413884ae3db435e3537c8b46a978f3016f02db6ecac9fda75b8cb443e4e1d83",
+   "subject": "11"
+  },
+  {
+   "file": "11/01_session_1/1_condition_2/3rd-person-online-[2020.03.04-11.42.27].gdf",
+   "bytes": 30833340,
+   "sha256": "da8f99e5d9a9ab33b11bb35ea42a43aa0716b16b9408e8187cc10e2957f70c5e",
+   "subject": "11"
+  },
+  {
+   "file": "11/01_session_1/1_condition_2/3rd-person-training-[2020.03.04-11.29.02].gdf",
+   "bytes": 30528718,
+   "sha256": "d2b65e322037a6f2f9869ab990032b25f29ca8c1807389f752c37e9c24c524b1",
+   "subject": "11"
+  },
+  {
+   "file": "11/01_session_1/2_condition_1/1st-person-online-[2020.03.04-12.05.24].gdf",
+   "bytes": 31191752,
+   "sha256": "800ad653c4e96d2914c7a27979e616671242a8eb8fa5c03b520032ad319c81f5",
+   "subject": "11"
+  },
+  {
+   "file": "11/01_session_1/2_condition_1/1st-person-training-[2020.03.04-11.54.51].gdf",
+   "bytes": 30528712,
+   "sha256": "c639d7ab3861ad203e5d21dc63ade2ea63436f788398f889264296b8cbf885b5",
+   "subject": "11"
+  },
+  {
+   "file": "11/02_session_2/0_resting_state/rest_state-[2020.03.05-11.14.02].gdf",
+   "bytes": 18637190,
+   "sha256": "e60f784317870a7992b5184d63662c351e8ab39c64f92c47354b9781fab41adc",
+   "subject": "11"
+  },
+  {
+   "file": "11/02_session_2/1_condition_2/3rd-person-online-[2020.03.05-11.30.25].gdf",
+   "bytes": 31066306,
+   "sha256": "5df9600c149c6970b8feaef0696c904bb539d0677b1fa71dfd6a68dcfe0e76db",
+   "subject": "11"
+  },
+  {
+   "file": "11/02_session_2/1_condition_2/3rd-person-training-[2020.03.05-11.19.39].gdf",
+   "bytes": 30528718,
+   "sha256": "994a8beb613cd2692b50bf5d3e269acafec1d3ebd7739ec0196ba2484fbb16d4",
+   "subject": "11"
+  },
+  {
+   "file": "11/02_session_2/2_condition_1/1st-person-online-[2020.03.05-11.52.36].gdf",
+   "bytes": 30860220,
+   "sha256": "9d54b5f44041147513113e5ab67439df2db941210b9544978592f9faeb82181b",
+   "subject": "11"
+  },
+  {
+   "file": "11/02_session_2/2_condition_1/1st-person-training-[2020.03.05-11.41.58].gdf",
+   "bytes": 30528712,
+   "sha256": "2def7dac7ff3264610fe302de5171b979c1a207fc9a663f541eaf23e0818e619",
+   "subject": "11"
+  },
+  {
+   "file": "11/03_session_3/0_resting_state/rest_state-[2020.03.06-11.31.57].gdf",
+   "bytes": 18637190,
+   "sha256": "b7d2ada2e086d53f94e594e91447d5712a75cad071c57e5a05ff606ef7862948",
+   "subject": "11"
+  },
+  {
+   "file": "11/03_session_3/1_condition_1/1st-person-online-[2020.03.06-11.48.28].gdf",
+   "bytes": 30824398,
+   "sha256": "25e01e055b390395bf49edc1dc8ad2dd7702f157c150d4bb1aae34ee8dfef88f",
+   "subject": "11"
+  },
+  {
+   "file": "11/03_session_3/1_condition_1/1st-person-training-[2020.03.06-11.37.14].gdf",
+   "bytes": 30528712,
+   "sha256": "c0e3c26f351712c4c246f43134f38e6fb96bfebce55649e68e230b5a243a1681",
+   "subject": "11"
+  },
+  {
+   "file": "11/03_session_3/2_condition_2/3rd-person-online-[2020.03.06-12.08.55].gdf",
+   "bytes": 30905038,
+   "sha256": "a8fd523575497c049995f1d9222bcc50ad0f8692d24fcb11606b1825bdfee466",
+   "subject": "11"
+  },
+  {
+   "file": "11/03_session_3/2_condition_2/3rd-person-training-[2020.03.06-11.58.26].gdf",
+   "bytes": 30528706,
+   "sha256": "b65ac4d19f228d1b87443d19b8120eaa04ff9cdaeabc8748066b4bd815be1fab",
+   "subject": "11"
+  },
+  {
+   "file": "12/01_session_1/0_resting_state/rest_state-[2020.03.04-15.57.48].gdf",
+   "bytes": 18637190,
+   "sha256": "26278005b6563c802c85985c39cf709df5e2a2828a55386d49e32fcfbf09880d",
+   "subject": "12"
+  },
+  {
+   "file": "12/01_session_1/1_condition_2/3rd-person-online-[2020.03.04-16.17.06].gdf",
+   "bytes": 30743776,
+   "sha256": "765e5fbf925f38f8bc750c219c63bd668969bebc9982aa0fb293af752d902a33",
+   "subject": "12"
+  },
+  {
+   "file": "12/01_session_1/1_condition_2/3rd-person-training-[2020.03.04-16.05.50].gdf",
+   "bytes": 30528700,
+   "sha256": "f0c20c6ecf4bbd5f8abd0b682845b6720b13de9834f11a50c481c09fe6fdf6cf",
+   "subject": "12"
+  },
+  {
+   "file": "12/01_session_1/2_condition_1/1st-person-online-[2020.03.04-16.40.13].gdf",
+   "bytes": 30582484,
+   "sha256": "3a23fd116e2c3896bb69db27535ae01aa052fb037444c2c129cdffbddb90bb37",
+   "subject": "12"
+  },
+  {
+   "file": "12/01_session_1/2_condition_1/1st-person-training-[2020.03.04-16.29.40].gdf",
+   "bytes": 30528706,
+   "sha256": "a7b2f2697e6a9018cacb41f87e9a963b524e16a81d0b643a932db64cb76b13be",
+   "subject": "12"
+  },
+  {
+   "file": "12/02_session_2/0_resting_state/rest_state-[2020.03.05-16.03.52].gdf",
+   "bytes": 18637184,
+   "sha256": "5e9bcb5fc8e3452a8092c73b8ecd3b19e4e79159c6a996e8b47a674bb369f09b",
+   "subject": "12"
+  },
+  {
+   "file": "12/02_session_2/1_condition_2/3rd-person-online-[2020.03.05-16.22.01].gdf",
+   "bytes": 30851266,
+   "sha256": "c7ad772a6ae37b1348465418d5ae66497ce760c788b1056bf73e9904fba7dee6",
+   "subject": "12"
+  },
+  {
+   "file": "12/02_session_2/1_condition_2/3rd-person-training-[2020.03.05-16.10.58].gdf",
+   "bytes": 30528712,
+   "sha256": "85a5b30a346bd93569e5ff6d7a8914cfc57131715bc6943076df9bd6ea537fbc",
+   "subject": "12"
+  },
+  {
+   "file": "12/02_session_2/2_condition_1/1st-person-online-[2020.03.05-16.43.17].gdf",
+   "bytes": 30878164,
+   "sha256": "d4b641998139e4947bb34b81f1e3f79d4b58ece796f9179f2b10dcf2347ac5fb",
+   "subject": "12"
+  },
+  {
+   "file": "12/02_session_2/2_condition_1/1st-person-training-[2020.03.05-16.31.43].gdf",
+   "bytes": 30528718,
+   "sha256": "1f547ae6de3d2ea628122106bad02a0e02f9723641585f6164dfa048daafbd89",
+   "subject": "12"
+  },
+  {
+   "file": "12/03_session_3/0_resting_state/rest_state-[2020.03.06-16.28.12].gdf",
+   "bytes": 18637184,
+   "sha256": "dc44bfaaf367d7c5067af3081aef57ce9f8273f50abf48fb4e77df5cf998fa27",
+   "subject": "12"
+  },
+  {
+   "file": "12/03_session_3/1_condition_2/3rd-person-online-[2020.03.06-16.44.54].gdf",
+   "bytes": 30824404,
+   "sha256": "ff18b3919539ebbecd753a1ae4437280f990ff9fe7b1924c722567bef79774a1",
+   "subject": "12"
+  },
+  {
+   "file": "12/03_session_3/1_condition_2/3rd-person-training-[2020.03.06-16.33.47].gdf",
+   "bytes": 30528718,
+   "sha256": "5ce62e5dc0482a213e0765b888232f005106b307898d1414ef70c984e1beb9bc",
+   "subject": "12"
+  },
+  {
+   "file": "12/03_session_3/2_condition_1/1st-person-online-[2020.03.06-17.05.58].gdf",
+   "bytes": 30842318,
+   "sha256": "efcfab8ab98f0992f8f8662202b1a9ab2751091a02956c115b162e6dcc8f9aa6",
+   "subject": "12"
+  },
+  {
+   "file": "12/03_session_3/2_condition_1/1st-person-training-[2020.03.06-16.55.06].gdf",
+   "bytes": 30528706,
+   "sha256": "235d04f491bf72b0aad49ba4b229676deff12abb8624431afa4d2ba35b7eca3a",
+   "subject": "12"
+  }
+ ]
+}
