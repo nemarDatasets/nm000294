@@ -144,3 +144,13 @@ new human-subject data were collected during this BIDS re-release; this
 NEMAR record only reformats the published source data into BIDS via MOABB.
 Please consult the primary publication for the exact IRB/ethics committee
 reference.
+
+## Ethics
+
+Approved by the Ethics Committee of CHULN and CAML (Faculty of Medicine, University of Lisbon), reference number 245/19. Written informed consent was obtained from all participants in accordance with the 1964 Declaration of Helsinki (Farabbi et al. 2020, Zenodo DOI 10.5281/zenodo.5882500).
+
+Verbatim from the source:
+
+> Approved by the Ethics Committee of CHULN and CAML (Faculty of Medicine, University of Lisbon) with reference number: 245/19.
+
+Source: Zenodo record 5882500 'notes' field (https://zenodo.org/records/5882500).

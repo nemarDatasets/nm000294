@@ -42,6 +42,6 @@
     ],
     "PublicationYear": 2020,
     "EthicsApprovals": [
-        "See the primary publication cited in the README/ReferencesAndLinks for the ethics approval statement obtained by the original investigators; no new human-subject data were collected for this BIDS re-release."
+        "Approved by the Ethics Committee of CHULN and CAML (Faculty of Medicine, University of Lisbon), reference number 245/19. Written informed consent was obtained from all participants in accordance with the 1964 Declaration of Helsinki (Farabbi et al. 2020, Zenodo DOI 10.5281/zenodo.5882500)."
     ]
 }
