@@ -1,5 +1,5 @@
 {
-    "Name": "Farabbi2020",
+    "Name": "Farabbi2020: Motor-Imagery EEG dataset during robot-arm control",
     "BIDSVersion": "1.9.0",
     "HEDVersion": "8.4.0",
     "DatasetType": "derivative",
@@ -40,5 +40,8 @@
             "URL": "https://doi.org/10.5281/zenodo.5882500"
         }
     ],
-    "PublicationYear": 2020
+    "PublicationYear": 2020,
+    "EthicsApprovals": [
+        "See the primary publication cited in the README/ReferencesAndLinks for the ethics approval statement obtained by the original investigators; no new human-subject data were collected for this BIDS re-release."
+    ]
 }
