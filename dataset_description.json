@@ -1,47 +1,51 @@
 {
-    "Name": "Farabbi2020: Motor-Imagery EEG dataset during robot-arm control",
-    "BIDSVersion": "1.9.0",
-    "HEDVersion": "8.4.0",
-    "DatasetType": "derivative",
-    "License": "CC-BY-4.0",
-    "Authors": [
-        "Andrea Farabbi",
-        "Fabiola Ghiringhelli",
-        "Luca Mainardi",
-        "Joao Miguel Sanches",
-        "Plinio Moreno",
-        "Jose Santos-Victor",
-        "Patricia Figueiredo",
-        "Athanasios Vourvopoulos"
-    ],
-    "ReferencesAndLinks": [
-        "https://doi.org/10.5281/zenodo.5882500"
-    ],
-    "Keywords": [
-        "motor imagery",
-        "BCI",
-        "brain-computer interface",
-        "EEG",
-        "robot arm",
-        "neurorehabilitation"
-    ],
-    "DatasetDOI": "doi:10.5281/zenodo.5882500",
-    "GeneratedBy": [
-        {
-            "CodeURL": "https://github.com/NeuroTechX/moabb",
-            "Name": "moabb",
-            "Description": "Mother of All BCI Benchmarks",
-            "Version": "1.8.0dev0"
-        }
-    ],
-    "SourceDatasets": [
-        {
-            "DOI": "10.5281/zenodo.5882500",
-            "URL": "https://doi.org/10.5281/zenodo.5882500"
-        }
-    ],
-    "PublicationYear": 2020,
-    "EthicsApprovals": [
-        "Approved by the Ethics Committee of CHULN and CAML (Faculty of Medicine, University of Lisbon), reference number 245/19. Written informed consent was obtained from all participants in accordance with the 1964 Declaration of Helsinki (Farabbi et al. 2020, Zenodo DOI 10.5281/zenodo.5882500)."
-    ]
+  "Name": "Farabbi2020: Motor-Imagery EEG dataset during robot-arm control",
+  "BIDSVersion": "1.9.0",
+  "HEDVersion": "8.4.0",
+  "DatasetType": "derivative",
+  "License": "CC-BY-4.0",
+  "Authors": [
+    "Andrea Farabbi",
+    "Fabiola Ghiringhelli",
+    "Luca Mainardi",
+    "Joao Miguel Sanches",
+    "Plinio Moreno",
+    "Jose Santos-Victor",
+    "Patricia Figueiredo",
+    "Athanasios Vourvopoulos"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.5281/zenodo.5882500"
+  ],
+  "Keywords": [
+    "motor imagery",
+    "BCI",
+    "brain-computer interface",
+    "EEG",
+    "robot arm",
+    "neurorehabilitation"
+  ],
+  "DatasetDOI": "10.82901/nemar.nm000294",
+  "GeneratedBy": [
+    {
+      "CodeURL": "https://github.com/NeuroTechX/moabb",
+      "Name": "moabb",
+      "Description": "Mother of All BCI Benchmarks",
+      "Version": "1.8.0dev0"
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "DOI": "10.5281/zenodo.5882500",
+      "URL": "https://doi.org/10.5281/zenodo.5882500"
+    },
+    {
+      "DOI": "doi:10.5281/zenodo.5882500"
+    }
+  ],
+  "PublicationYear": 2020,
+  "EthicsApprovals": [
+    "Approved by the Ethics Committee of CHULN and CAML (Faculty of Medicine, University of Lisbon), reference number 245/19. Written informed consent was obtained from all participants in accordance with the 1964 Declaration of Helsinki (Farabbi et al. 2020, Zenodo DOI 10.5281/zenodo.5882500)."
+  ],
+  "Version": "1.0.0"
 }
