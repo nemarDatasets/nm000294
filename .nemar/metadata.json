@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Farabbi2020: Motor-Imagery EEG dataset during robot-arm control",
-  "description": "Motor-imagery EEG recorded from 12 healthy, BCI-naive participants who performed cued left- versus right-hand imagery to control a Baxter robot arm reaching toward objects. Each participant completed three sessions with first-person and third-person visual feedback conditions, giving 480 trials per subject. The dataset supports research on brain-computer interfaces and neurorehabilitation.",
-  "methods_description": "EEG was recorded at 250 Hz with a 32-channel active Ag/AgCl LiveAmp system (Brain Products) in a 10-20 montage. Each session had four motor-imagery runs (first-person training and online, third-person training and online) plus a resting-state recording. Each run had 20 left-hand and 20 right-hand trials, and each trial consisted of a 2 s baseline followed by 4 s of imagery with visual feedback.",
+  "description": "Motor-imagery EEG recorded from 12 healthy, BCI-naive participants performing cued left- versus right-hand imagery to control a Baxter robot arm reaching toward objects. Each participant completed three sessions with first-person and third-person visual feedback conditions, giving 480 trials per subject. Data were recorded with a 32-channel LiveAmp system at 250 Hz and re-released in BIDS format via MOABB.",
+  "methods_description": "EEG was recorded with a 32-channel Brain Products LiveAmp and actiCAP active Ag/AgCl electrodes (10-20 montage) at 250 Hz. Each session had four motor-imagery runs (first-person training/online, third-person training/online) of 20 left and 20 right trials, plus a resting-state recording. Each trial had a 2 s baseline followed by 4 s of imagery, with visual feedback from the robot arm.",
   "license": "CC-BY-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -67,21 +67,6 @@
   },
   "keywords": [
     {
-      "term": "EEG"
-    },
-    {
-      "term": "motor imagery"
-    },
-    {
-      "term": "brain-computer interface"
-    },
-    {
-      "term": "robot arm"
-    },
-    {
-      "term": "neurorehabilitation"
-    },
-    {
       "term": "Electroencephalography",
       "subject_scheme": "MeSH",
       "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
@@ -90,6 +75,15 @@
       "term": "Brain-Computer Interfaces",
       "subject_scheme": "MeSH",
       "value_uri": "http://id.nlm.nih.gov/mesh/D062207"
+    },
+    {
+      "term": "Motor imagery"
+    },
+    {
+      "term": "Robot arm control"
+    },
+    {
+      "term": "Neurorehabilitation"
     }
   ],
   "related_identifiers": [
@@ -125,14 +119,16 @@
     "eeg"
   ],
   "sizes": [
-    "966 MB (145 files)"
+    "5.69 GB (325 files)"
   ],
   "formats": [
     ".edf",
+    ".gdf",
     ".json",
+    ".md",
     ".tsv",
     ".yaml",
     ".yml"
   ],
-  "source_hash": "7ec4dd46483a5a049f8baab55f2cf13b92041ab6508701839b0f4b9062418f02"
+  "source_hash": "210bbd7244ad3df22c357fd7115a140217bcd4a035c088220640da3d6f62dc74"
 }
